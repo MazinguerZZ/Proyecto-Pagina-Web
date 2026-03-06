@@ -1,4 +1,7 @@
 # Introducción
+![GitHub repo size](https://img.shields.io/github/repo-size/MazinguerZZ/Proyecto_Formulario?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/MazinguerZZ/Proyecto_Formulario?style=for-the-badge&color=orange)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 > Bienvenido a Coffee Express - Un sitio web moderno para una cafetería con funciones interactivas y un diseño atractivo
 
