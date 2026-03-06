@@ -100,13 +100,13 @@ Each page features consistent navigation, footer, and branding elements.
   <Step title="Clone the repository">
     Get the project files from GitHub
 
-    ```bash  theme={null}
+    ```bash
     git clone https://github.com/MazinguerZZ/Proyecto-Pagina-Web.git
     ```
   </Step>
 
   <Step title="Navigate to the project directory">
-    ```bash  theme={null}
+    ```bash
     cd Proyecto-Pagina-Web/"Proyecto Interfaz"
     ```
   </Step>
@@ -114,7 +114,7 @@ Each page features consistent navigation, footer, and branding elements.
   <Step title="Open in browser">
     Open `index.html` in your web browser to view the site
 
-    ```bash  theme={null}
+    ```bash
     # Using a simple HTTP server (recommended)
     python -m http.server 8000
     # Then visit http://localhost:8000
