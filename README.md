@@ -85,9 +85,10 @@ Cada página presenta navegación, pie de página y elementos de marca consisten
 </Accordion>
 
 <Accordion title="Librerías externas">
-  * **Typed.js**: Efectos de animación de escritura
-  * **Animate.css**: Animaciones CSS preconstruidas
-  * Fuentes personalizadas desde Google Fonts (Caveat, Poppins)
+  
+* **Typed.js**: Efectos de animación de escritura
+* **Animate.css**: Animaciones CSS preconstruidas
+* Fuentes personalizadas desde Google Fonts (Caveat, Poppins)
 </Accordion>
 
 ## Inicio rápido
