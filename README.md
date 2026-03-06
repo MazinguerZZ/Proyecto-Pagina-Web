@@ -104,15 +104,17 @@ Each page features consistent navigation, footer, and branding elements.
 git clone https://github.com/MazinguerZZ/Proyecto-Pagina-Web.git
 ```
   </Step>
-  Vamos a la ruta del proyecto
+  
   <Step title="Navigate to the project directory">
+    Vamos a la ruta del proyecto
+
 ```bash
 cd Proyecto-Pagina-Web/"Proyecto Interfaz"
 ```
   </Step>
 
   <Step title="Open in browser">
-    Open `index.html` in your web browser to view the site
+    Open 'index.html' in your web browser to view the site
 
 ```bash
 # Using a simple HTTP server (recommended)
